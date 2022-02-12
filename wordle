@@ -1,0 +1,11 @@
+#! /bin/bash
+
+source scripts/library.sh
+
+# switch="$1"
+# value="$2"
+# if [[ $switch == "-change" ]]; then
+#     change_todays_word $value
+#     exit
+# fi
+main
